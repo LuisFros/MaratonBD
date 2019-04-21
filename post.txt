@@ -1,0 +1,1 @@
+{"mensaje": "Hemos detectado un evento de emergencia en tu cercania, por favor contactarse con las autoridades\n'Funciona este incendio'"}
